@@ -1,0 +1,1 @@
+Piccolo E-commerce tutto in JS vanilla senza uso di librerie esterne
